@@ -1,2 +1,0 @@
-# diegomadureiraulife.github.io
-Portfolio
