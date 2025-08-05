@@ -7,8 +7,8 @@ Você pode acessar o site online aqui:
 
 ## 🚀 Tecnologias Utilizadas
 
-- 🔹 **HTML5**
-- 🔹 **CSS3**
+- 🔹 **HTML**
+- 🔹 **CSS**
 
 ## 📂 Como visualizar localmente
 
